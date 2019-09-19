@@ -8,21 +8,21 @@
 <img src="images/autonomous_bot.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Advnaced Lane Finding Project @ Udacity](/pdf/sample_presentation.pdf)
+<img src="images/lane_output.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[System Identification of Roll-2-Roll](http://example.com/)
+<img src="images/roll2roll.png?raw=true"/>
 
----
+--- 
 
-### Projects Categories
+### Project Categories
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
+- [Autonomous Vehicles](http://example.com/)
+- [System Identification](http://example.com/)
+- [Control Systems and Robotics](http://example.com/)
+- [](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
 ---
