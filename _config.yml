@@ -1,9 +1,11 @@
 title: Bhavesh Parkhe # your name (or website title) here
 logo: "/images/Casual.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks) 
-  Mechanical Engineer, Control Systems Enthusiast
-  Second description 
-  <br><br>
+  <br>Mechanical Engineer,
+  Specializing in Control Systems and Automation
+  Cricket afficianado<br>
+   
+  <br>Currently looking for opportunities to expand my horizons<br>
   <a href="https://www.linkedin.com/in/bparkhe/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
