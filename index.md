@@ -4,8 +4,8 @@
 
 ### Highlights 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Autonomous Bot for MIT Duckietown](/sample_page)
+<img src="images/autonomous_bot.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
