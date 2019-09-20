@@ -1,6 +1,9 @@
-## This can be your internal website page / project page
+## About Me
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am Bhavesh, a Mechanical Engineering Masters student at UMass Amherst set to graduate in December 2019. This webpage is my effort towards giving my resume a visual dimension and portray my achievements effectively. 
+
+During my time a t UMass Amherst I have focussed on indetification and modelling of controllers fro different applications.
+My ideal job would involve mathematical analysis due to my 8+ years of academic focus and 3 years of professional association with this field. 
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
