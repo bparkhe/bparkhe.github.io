@@ -5,7 +5,8 @@
 ### Highlights 
 
 [Autonomous Bot for MIT Duckietown](/sample_page)
-<img src="images/autonomous_bot.jpg?raw=true"/>
+
+<img src="images/autonomous_bot.jpg?raw=true"/> | <img src="images/autonomous_bot.jpg?raw=true"/>
 
 ---
 [Advnaced Lane Finding Project @ Udacity](/pdf/sample_presentation.pdf)
