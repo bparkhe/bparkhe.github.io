@@ -6,9 +6,10 @@
 
 [Autonomous Bot for MIT Duckietown](/sample_page)
 
-<img width ="300" height="200" src="images/autonomous_bot.jpg?raw=true"/> | <img width ="300" height="200" src="images/autonomous_bot.jpg?raw=true"/>
+<img width ="400" src="images/autonomous_bot.jpg?raw=true"/>
+
 ---
-[Advnaced Lane Finding Project @ Udacity](/pdf/sample_presentation.pdf)
+[Advanced Lane Finding Project @ Udacity](/pdf/sample_presentation.pdf)
 <img src="images/lane_output.jpg?raw=true"/>
 
 ---
