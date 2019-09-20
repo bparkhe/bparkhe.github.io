@@ -23,8 +23,6 @@
 - [Autonomous Vehicles](http://example.com/)
 - [System Identification](http://example.com/)
 - [Control Systems and Robotics](http://example.com/)
-- [](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
