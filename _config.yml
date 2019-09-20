@@ -1,12 +1,12 @@
 title: Bhavesh Parkhe # your name (or website title) here
 logo: "/images/Casual.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks) 
-  <br><br>
+
   <br>Masters in Mechanical Engineering<br>
   <br>University of Masscussetts Amherst<br> 
-  <br><br>
-   
+  
   <a href="https://www.linkedin.com/in/bparkhe/">View My LinkedIn Profile</a> 
+  
   <a href="/pdf/BhaveshParkhe_Resume.pdf">View My Resume</a> 
   
 theme: jekyll-theme-minimal
