@@ -6,15 +6,15 @@
 
 [Autonomous Bot for MIT Duckietown](/sample_page)
 
-<img width ="400" src="images/autonomous_bot.jpg?raw=true"/>
+<img width ="350" src="images/autonomous_bot.jpg?raw=true"/>
 
----
 [Advanced Lane Finding Project @ Udacity](/pdf/sample_presentation.pdf)
-<img src="images/lane_output.jpg?raw=true"/>
 
----
+<img width ="350" src="images/lane_output.jpg?raw=true"/>
+
 [System Identification of Roll-2-Roll](http://example.com/)
-<img src="images/roll2roll.png?raw=true"/>
+
+<img width ="350" src="images/roll2roll.png?raw=true"/>
 
 --- 
 
