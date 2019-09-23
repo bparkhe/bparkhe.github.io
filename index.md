@@ -4,7 +4,7 @@
 
 ### Highlights 
 
-[Autonomous Bot for MIT Duckietown](/sample_page)
+[Autonomous Bot for MIT Duckietown](/auto_bot)
 
 <img width ="350" src="images/autonomous_bot.jpg?raw=true"/>
 
