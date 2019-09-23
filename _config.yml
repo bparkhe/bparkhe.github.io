@@ -4,11 +4,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   Masters in Mechanical Engineering
   University of Masscussetts Amherst<br> 
-  <br><a href="/about">About me
-</a>
-  <a href="https://www.linkedin.com/in/bparkhe/">View My LinkedIn Profile
-</a> 
+  <br><a href="/about">About me</a><br>
+  <a href="https://www.linkedin.com/in/bparkhe/">View My LinkedIn Profile</a><br>
   <a href="/pdf/BhaveshParkhe_Resume.pdf">View My Resume</a> <br>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+  
