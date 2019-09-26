@@ -9,7 +9,9 @@
 
 The state variable x(t) which represents the state of the system and can be calculated regressively by estimating the state space form. A discrete form of this equation just requires replacing the time t with kth sample value.
 
-<img src="images/sys_id/equations.png?raw=true"/>
+<img src="images/sys_id/schematic.png?raw=true"/>
+
+<img src="images/sys_id/equations.jpg?raw=true"/>
 
 ### Testing
 

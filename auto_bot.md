@@ -7,7 +7,7 @@
 Odometry is the use of data from motion sensors to estimate change in position over time. For this project we used IR sensors which can detect the reflectance of a surface that it faces. We then placed black and white quadrature circles in front of then near the wheel hub which will cause a change in current each time it switches colors. The counts of each switch were recorded using the Arduino and speed and distance were calculated.
 <img src="images/auto_bot/wheel_section.jpg?raw=true"/>
 
-<img src="images/auto_bot/quad_pulses.png?raw=true"/>
+<img src="images/auto_bot/quad_pulses.jpg?raw=true"/>
 
 ### 2. Cruise control(obstruction detection) using ping sensors
 

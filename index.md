@@ -8,11 +8,11 @@
 
 <img width ="350" src="images/autonomous_bot.jpg?raw=true"/>
 
-[Advanced Lane Finding Project @ Udacity](/sys_id_roll_2_roll)
+[Advanced Lane Finding Project @ Udacity]
 
 <img width ="350" src="images/lane_output.jpg?raw=true"/>
 
-[System Identification of Roll-2-Roll](http://example.com/)
+[System Identification of Roll-2-Roll](/sys_id_roll_2_roll)
 
 <img width ="350" src="images/roll2roll.png?raw=true"/>
 
