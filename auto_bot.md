@@ -1,6 +1,6 @@
 ## Autonomous Bot for MIT Duckietown
 
-**Project description:** This project was aimed at recreating the self driving car systems in a miniature town and explore the problems faced by the sensing components on the road. To have a standard design and testing environment, this project was implemented within the specifications of the Duckietown Project which was initiated by Massachusetts Institute of Technology. Due to this being a part of a faast paced course, least resistance methods to implement a working model were preferred. The basic elements that were used  
+**Project description:** This project was aimed at recreating the self driving car systems in a miniature town and explore the problems faced by the sensing components on the road. To have a standard design and testing environment, this project was implemented within the specifications of the Duckietown Project which was initiated by Massachusetts Institute of Technology. Due to this being a part of a fast paced course, least resistance methods to implement a working model were preferred. The basic elements that were used  
 
 ### 1. Implementing Odometry using IR sensors
 
