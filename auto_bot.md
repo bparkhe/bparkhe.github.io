@@ -6,6 +6,7 @@
 
 Odometry is the use of data from motion sensors to estimate change in position over time. For this project we used IR sensors which can detect the reflectance of a surface that it faces. We then placed black and white quadrature circles in front of then near the wheel hub which will cause a change in current each time it switches colors. The counts of each switch were recorded using the Arduino and speed and distance were calculated.
 <img src="images/auto_bot/wheel_section.jpg?raw=true"/>
+
 <img src="images/auto_bot/quad_pulses.png?raw=true"/>
 
 ### 2. Cruise control(obstruction detection) using ping sensors
@@ -17,8 +18,6 @@ To detect obstruction directly ahead of the vehicle, we used a ping sensor which
 ### 3. Lane Finding and PD control using PiCamera
 
 <img src="images/auto_bot/lane_detection.png?raw=true"/>
-
-### 4. Path Planning and navigation state machine
 
 ## Final Test Run
 
