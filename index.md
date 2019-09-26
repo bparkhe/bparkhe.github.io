@@ -8,7 +8,7 @@
 
 <img width ="350" src="images/autonomous_bot.jpg?raw=true"/>
 
-[Advanced Lane Finding Project @ Udacity](/pdf/sample_presentation.pdf)
+[Advanced Lane Finding Project @ Udacity](/sys_id_roll_2_roll)
 
 <img width ="350" src="images/lane_output.jpg?raw=true"/>
 
