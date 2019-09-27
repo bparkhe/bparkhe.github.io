@@ -31,7 +31,7 @@ A 2nd order polynomial is fitted to these points (yellow). A spline can also be 
 
 <img src="images/auto_bot/test7.jpg?raw=true"/>
 
-<img width="350" src="images/auto_bot/output_test1_polynomial.jpg?raw=true"/>
+<img width="400" src="images/auto_bot/output_test1_polynomial.jpg?raw=true"/>
 
 ---
 ### Final Output
