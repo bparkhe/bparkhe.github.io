@@ -3,7 +3,7 @@
 **Project description:** 
 This project was executed as a part of my Udacity Self Driving Car Nanodegree. The below project was part of module 2 where we improve upon our previous implementation of lane finding. The previous algorithm had problems with detecting higher order curvatures and detecting lane lines on a concrete road. I used indvidual images to show the steps and then the implemtation of the final video is included as well.
 
-<img src="images/sys_id/straight_lines1.jpg?raw=true"/>
+<img src="images/auto_bot/straight_lines1.jpg?raw=true"/>
 ---
 ### Undistort and perspective transform
 First we preform an undistort to account for distortion due to the camera lenses. This the first and the most basicestep before we proceed with curvature calculations
@@ -29,13 +29,12 @@ After applying the perspective transform and color threshold, we get a image sim
 
 A 2nd order polynomial is fitted to these points (yellow). A spline can also be fitted for roads with uneven curves.
 
-<img width="300" src="images/sys_id/test7.jpg?raw=true"/>
+<img src="images/auto_bot/test7.jpg?raw=true"/>
 
-<img src="images/auto_bot/output_test1_polynomial.jpg?raw=true"/>
+<img width="300" src="images/auto_bot/output_test1_polynomial.jpg?raw=true"/>
 
 ---
 ### Final Output
-
 <video width="640" height="480" controls>
   <source src="images/auto_bot/project_video_output.mp4" type="video/mp4">
 </video>
