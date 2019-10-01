@@ -13,10 +13,17 @@ The state variable x(t) which represents the state of the system and can be calc
 
 <img src="images/sys_id/equations.jpg?raw=true"/>
 
+### Training
+<img src="images/sys_id/training_data.jpg?raw=true"/>
+
+
 ### Testing
+<img src="images/sys_id/test_data.jpg?raw=true"/>
 
 
 ### Validation
+<img src="images/sys_id/validation.jpg?raw=true"/>
 
 
+### For more info
 [Detailed Project Report](/pdf/sys_id_project_report.pdf)

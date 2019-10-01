@@ -10,9 +10,9 @@ These pages have images and detailed description of the project. And in some cas
 ### Manufacturing Data Analysis
 1. [Drilling tool failure prediction](/drill_tool)
 2. [Semiconductor Etch fault detection](/semi_etch)
-3. [System Identification of Roll 2 Roll Processes](/sys_id_roll_2_roll)
+3. [System Identification of Roll 2 Roll Process](/sys_id_roll_2_roll)
 
 ### Other Projects (currently inactive)
-1. [Computational Analysis](/num_analysis)
-2. [Wind Trurbine Modeling using Open FAST](/fast)
+1. [Adbanced Numerical Analysis Coursework](/num_analysis)
+2. [Wind Turbine Modeling using Open FAST](/fast)
 3. [Computational And Experimental Analysis of Vortex Tube](/cfd)
