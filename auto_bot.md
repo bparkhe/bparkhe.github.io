@@ -17,8 +17,17 @@ To detect obstruction directly ahead of the vehicle, we used a ping sensor which
 
 ### 3. Lane Finding and PD control using PiCamera
 
-<img src="images/auto_bot/lane_detection.png?raw=true"/>
+<img width="700" src="images/auto_bot/lane_detection.png?raw=true"/>
 
-## Final Test Run
+### Final Test Run
+<video width="640" height="480" controls>
+  <source src="images/auto_bot/OuterLoopVision_2.mp4" type="video/mp4">
+</video>
 
-## Brownie points for being cool
+
+### Brownie points for being cool
+..and, no he is not crazy, we had him tested :)
+
+<video width="640" height="480" controls>
+  <source src="images/auto_bot/cool_bot.mp4" type="video/mp4">
+</video>
