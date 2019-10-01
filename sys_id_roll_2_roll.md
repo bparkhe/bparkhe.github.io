@@ -14,15 +14,15 @@ The state variable x(t) which represents the state of the system and can be calc
 <img src="images/sys_id/equations.jpg?raw=true"/>
 
 ### Training
-<img src="images/sys_id/training_data.jpg?raw=true"/>
+<img src="images/sys_id/training_data.JPG?raw=true"/>
 
 
 ### Testing
-<img src="images/sys_id/test_data.jpg?raw=true"/>
+<img src="images/sys_id/test_data.JPG?raw=true"/>
 
 
 ### Validation
-<img src="images/sys_id/validation.jpg?raw=true"/>
+<img src="images/sys_id/validation.JPG?raw=true"/>
 
 
 ### For more info
