@@ -10,14 +10,12 @@ Although my major is Mechanical Engineering, I am enthusiastic about learning so
 
 I hope my projects on this page give you a glimpse of how I improve.
 
-## Read more
 <details>
   <summary>Read More</summary>
   
   ### Heading
   <br>
   I have underwent diverse coursework but with a common aim, to build efficient technologies. The mathematically rigorous coursework has ensured that I can apply my training to a diverse rage of projects. During my time at UMass Amherst I have focussed on identification and modelling of controllers.
-  <br>
   
   <br>
   As I head closer to my Graduation (December 2019), I am actively looking for opportunities to apply my skills. My ideal job would involve tasks with rigorous mathematical analysis.
@@ -33,4 +31,14 @@ I hope my projects on this page give you a glimpse of how I improve.
   2. list
      * With some
      * Sub bullets
+</details>
+
+## collapsible markdown?
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+</p>
 </details>
