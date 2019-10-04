@@ -9,7 +9,7 @@ I have been associated with Mechanical Engineering for the past 11 years, 8 year
 Although my major is Mechanical Engineering, I am enthusiastic about learning something new everyday and finding ways implementing it in form of projects. Currently I am doing that by going through the Udacity Self Driving Car Nanodegree Program. As a part of this program I am learning path planning, navigation and neural networks. Being very new to most of these concepts, this course would be a test of my problem solving skills. Keep checking on the Autonomous Vehicles project section to track my progress.
 
 For a short resume with my recent projects 
-[BhaveshParkhe_Resume](/pdf/BhaveshParkhe_Resume.pdf)
+[BhaveshParkhe_Resume_1page](/pdf/BhaveshParkhe_Resume.pdf)
 
-For a detailed resume for an exhaustive list of projects and experiences-
-[BhaveshParkhe_Resume_Long](/pdf/BhaveshParkhe_Resume_Long.pdf)
+For an exhaustive list of projects and experiences-
+[BhaveshParkhe_Resume_2Page](/pdf/BhaveshParkhe_Resume_Long.pdf)
