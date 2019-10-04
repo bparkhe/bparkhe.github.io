@@ -8,7 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="/about">About me</a><br>
   <a href="/projects_page">Projects</a><br>
   <a href="https://www.linkedin.com/in/bparkhe/">View My LinkedIn Profile</a><br>
-  <a href="/pdf/BhaveshParkhe_Resume.pdf">View My Resume</a> <br>  
+  <a href="/resume">View My Resume</a> <br>  
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
   
