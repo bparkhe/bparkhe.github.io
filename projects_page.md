@@ -13,6 +13,6 @@ These pages have images and detailed description of the project. And in some cas
 3. [System Identification of Roll 2 Roll Process](/sys_id_roll_2_roll)
 
 ### Other Projects (currently inactive)
-1. [Advanced Numerical Analysis Coursework](/num_analysis)
-2. [Wind Turbine Modeling using Open FAST](/fast)
-3. [Computational And Experimental Analysis of Vortex Tube](/cfd)
+1. [Advanced Numerical Analysis Coursework](/update_page)
+2. [Wind Turbine Modeling using Open FAST](/update_page)
+3. [Computational And Experimental Analysis of Vortex Tube](/update_page)
