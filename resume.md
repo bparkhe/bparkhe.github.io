@@ -12,4 +12,4 @@
 <br>**email me at - bparkhe@umass.edu**
 
 "Just wanna let you know your awesome"
-<br>**Nope. You are!**
+<br>**Nope. You are!** (Just correcting your grammar)
