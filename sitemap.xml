@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://bparkhe.github.io/</loc>
+  <lastmod>2019-10-08T03:21:35+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://bparkhe.github.io/index</loc>
+  <lastmod>2019-10-08T03:21:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bparkhe.github.io/about</loc>
+  <lastmod>2019-10-08T03:21:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bparkhe.github.io/projects_page</loc>
+  <lastmod>2019-10-08T03:21:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bparkhe.github.io/resume</loc>
+  <lastmod>2019-10-08T03:21:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bparkhe.github.io/auto_bot</loc>
+  <lastmod>2019-10-08T03:21:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bparkhe.github.io/adv_lane_finding</loc>
+  <lastmod>2019-10-08T03:21:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bparkhe.github.io/sys_id_roll_2_roll</loc>
+  <lastmod>2019-10-08T03:21:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bparkhe.github.io/pdf/BhaveshParkhe_Resume.pdf</loc>
+  <lastmod>2019-10-08T03:21:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bparkhe.github.io/pdf/BhaveshParkhe_Resume_Long.pdf</loc>
+  <lastmod>2019-10-08T03:21:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bparkhe.github.io/drill_tool</loc>
+  <lastmod>2019-10-08T03:21:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bparkhe.github.io/semi_etch</loc>
+  <lastmod>2019-10-08T03:21:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bparkhe.github.io/update_page</loc>
+  <lastmod>2019-10-08T03:21:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bparkhe.github.io/pdf/sys_id_project_report.pdf</loc>
+  <lastmod>2019-10-08T03:21:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bparkhe.github.io/pdf/drill_fault_ppt.pdf</loc>
+  <lastmod>2019-10-08T03:21:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://bparkhe.github.io/pdf/etch_fault_ppt.pdf</loc>
+  <lastmod>2019-10-08T03:21:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>

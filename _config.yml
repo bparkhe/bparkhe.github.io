@@ -10,5 +10,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/bparkhe/">View My LinkedIn Profile</a><br>
   <a href="/resume">View My Resume</a> <br>  
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
   
