@@ -24,8 +24,8 @@ To detect obstruction directly ahead of the vehicle, we used a ping sensor which
   <source src="images/auto_bot/OuterLoopVision_2.mp4" type="video/mp4">
 </video>
 
-</br>
-</br>
+<br>
+<br>
 ### Brownie points for being cool
 ..and, no he is not crazy, we had him tested :)
 <video width="640" height="480" controls>

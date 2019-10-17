@@ -1,7 +1,8 @@
-## Drill Tool
+## Drilling tool fialure prediction using machine learning
 
-**Project description:** This page in currently being edited. Please come back on 04 October 2019 for an updated page.
-
-Here is the report as presented towards the end of the course
-
+ 
+B. Parkhe, N. Figliola, "Drill bit fault detection and classification using k-nearest neighbor, decision tree, artificial neural network, support vector machine, and Naive Bayes classifier"
+<br>
+[Drill Fault Classification - Paper](/pdf/drill_fault_paper.pdf)
+<br>
 [Drill Fault Classification - Final Presentation](/pdf/drill_fault_ppt.pdf)

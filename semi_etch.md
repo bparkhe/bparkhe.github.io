@@ -24,10 +24,10 @@ An average across wafers for the unfloded data allows us to check individually t
 
 
 **Error analysis**
-<img src="images/semi_etch/eror_analysis.PNG?raw=true"/>
+<img src="images/semi_etch/error_analysis.PNG?raw=true"/>
 
 
 
-Report
+**Report**
 Here is the report as presented towards the end of the course
 [Semi Conductor Etch Classification - Final Presentation](/pdf/etch_fault_ppt.pdf)
