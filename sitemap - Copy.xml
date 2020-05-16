@@ -63,11 +63,6 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://bparkhe.github.io/cfd</loc>
-  <lastmod>2019-10-08T03:21:35+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
   <loc>https://bparkhe.github.io/semi_etch</loc>
   <lastmod>2019-10-08T03:21:35+00:00</lastmod>
   <priority>0.64</priority>
@@ -92,10 +87,6 @@
   <lastmod>2019-10-08T03:21:31+00:00</lastmod>
   <priority>0.51</priority>
 </url>
-<url>
-  <loc>https://bparkhe.github.io/pdf/FMFP_REPORT.pdf</loc>
-  <lastmod>2019-10-08T03:21:31+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
+
 
 </urlset>
