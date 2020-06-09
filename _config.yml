@@ -2,13 +2,15 @@ title: Bhavesh Parkhe # your name (or website title) here
 logo: "/images/Casual.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks) 
   <br>
-  Masters in Mechanical Engineering
+  Control Systems | Robotics | Autonomous Vehicles<br>
+  MS in Mechanical Engineering
   University of Masscussetts Amherst<br> 
   <br><a href="/index">Home</a><br>
   <a href="/about">About me</a><br>
   <a href="/projects_page">Projects</a><br>
-  <a href="https://www.linkedin.com/in/bparkhe/">View My LinkedIn Profile</a><br>
-  <a href="/resume">View My Resume</a> <br>  
+  <a href="/resume">Resume/CV</a><br>
+  <a href="https://www.linkedin.com/in/bparkhe/">LinkedIn Profile</a><br>
+  <a href="https://github.com/bparkhe">Github Profile</a><br>  
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag

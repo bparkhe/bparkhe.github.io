@@ -4,7 +4,7 @@ Here are a few projects that I have executed inpendently or as a part of my grad
 These pages have images and detailed description of the project. And in some cases, even a video!
 
 ### Autonomous Vehicles
-1. [Autonomous Bot for MIT DUckie town](/auto_bot)
+1. [Autonomous Bot for MIT Duckie town](/auto_bot)
 2. [Advanced Lane Finding @ Udacity](/adv_lane_finding)
 
 ### Manufacturing Data Analysis
