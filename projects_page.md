@@ -15,4 +15,4 @@ These pages have images and detailed description of the project. And in some cas
 ### Other Projects (currently inactive)
 1. [Advanced Numerical Analysis Coursework](/update_page)
 2. [Wind Turbine Modeling using Open FAST](/update_page)
-3. [Computational And Experimental Analysis of Vortex Tube](/update_page)
+3. [Computational And Experimental Analysis of Vortex Tube](/cfd)
