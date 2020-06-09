@@ -24,7 +24,7 @@ An average across wafers for the unfloded data allows us to check individually t
 
 
 **Error analysis**
-<img src="images/semi_etch/error_analysis.PNG?raw=true"/>
+<img src="images/semi_etch/error_new.jpg?raw=true"/>
 
 
 
