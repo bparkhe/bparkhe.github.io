@@ -1,6 +1,6 @@
-## System Identification of Roll 2 Roll Printing Process	
+## System Identification of Roll-to-Roll Printing Process	
 
-**Project description:** Roll-2-roll printing process is an upcoming technology for mass production of flexible electronics. It involves a flexible substrate which travels over multiple rollers, similar to a printing press. In a roll-to-roll process, precise control of the web (substrate) speed and tension is critical to ensure print quality, since improper web speed and tension would lead to severe damage to the substrates. Multiple ways of controlling these parameters for printing have been tried and tested. Implementation of these controllers require user to have some knowledge about the physical model of the process and then linearizing it to obtain a set of equations which can solved to minimize errors in the calculated value and the actual value in the process.
+**Project description:** R2R printing process is an upcoming technology for mass production of flexible electronics. It involves a flexible substrate which travels over multiple rollers, similar to a printing press. In a roll-to-roll process, precise control of the web (substrate) speed and tension is critical to ensure print quality, since improper web speed and tension would lead to severe damage to the substrates. Multiple ways of controlling these parameters for printing have been tried and tested. Implementation of these controllers require user to have some knowledge about the physical model of the process and then linearizing it to obtain a set of equations which can solved to minimize errors in the calculated value and the actual value in the process.
 
 <img src="images/sys_id/roll2roll.png?raw=true"/>
 

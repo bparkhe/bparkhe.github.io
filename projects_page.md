@@ -5,14 +5,15 @@ These pages have images and detailed description of the project. And in some cas
 
 ### Autonomous Vehicles
 1. [Autonomous Bot for MIT Duckie town](/auto_bot)
-2. [Advanced Lane Finding @ Udacity](/adv_lane_finding)
+2. [Lane Finding using OpenCV](/adv_lane_finding)
+3. [Behavior Cloning for Steering using CNN](/behavior_cloning)
 
-### Manufacturing Data Analysis
+### Dynamics and Failure Detection
 1. [Drilling tool failure prediction](/drill_tool)
 2. [Semiconductor Etch fault detection](/semi_etch)
-3. [System Identification of Roll 2 Roll Process](/sys_id_roll_2_roll)
+3. [System Identification of Roll-to-Roll Process](/sys_id_roll_2_roll)
 
-### Other Projects (currently inactive)
-1. [Advanced Numerical Analysis Coursework](/update_page)
-2. [Wind Turbine Modeling using Open FAST](/update_page)
-3. [Computational And Experimental Analysis of Vortex Tube](/cfd)
+### Fluid Dynamics
+1. [Computational And Experimental Analysis of Vortex Tube](/cfd)
+2. [Advanced Numerical Analysis Coursework (not updated)](/update_page)
+3. [Wind Turbine Modeling using Open FAST (not updated)](/update_page) 
