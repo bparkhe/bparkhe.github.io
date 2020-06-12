@@ -94,3 +94,8 @@ After the collection process, I had ~4500 number of data points. I then preproce
 I finally randomly shuffled the data set and put 20% of the data into a validation set. 
 
 I used this training data for training the model. The validation set helped determine if the model was over or underfitting. The ideal number of epochs was 4 as evidenced by the rising validation loss. I used an adam optimizer so that manually training the learning rate wasn't necessary.
+
+#### 4. Final Output
+<video width="640" height="480" controls>
+  <source src="images/behavioral_cloning/video.mp4" type="video/mp4">
+</video>
