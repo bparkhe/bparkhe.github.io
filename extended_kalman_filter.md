@@ -1,4 +1,4 @@
-## Advanced Lane Finding Project	
+## Extended Kalman Filter Project	
 
 **Project description:** 
 This project was executed as a part of my Udacity Self Driving Car Nanodegree. The below project was part of module 2 where we improve upon our previous implementation of lane finding. The previous algorithm had problems with detecting higher order curvatures and detecting lane lines on a concrete road. I used indvidual images to show the steps and then the implemtation of the final video is included as well.
